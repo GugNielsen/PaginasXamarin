@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/PagesXamarim.iOS.csproj": {}
+    "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/PagesXamarim.iOS.csproj": {}
   },
   "projects": {
-    "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/PagesXamarim.iOS.csproj": {
+    "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/PagesXamarim.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/PagesXamarim.iOS.csproj",
+        "projectUniqueName": "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/PagesXamarim.iOS.csproj",
         "projectName": "PagesXamarim.iOS",
-        "projectPath": "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/PagesXamarim.iOS.csproj",
+        "projectPath": "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/PagesXamarim.iOS.csproj",
         "packagesPath": "/Users/marceloduarte/.nuget/packages/",
-        "outputPath": "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/obj/",
+        "outputPath": "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/PagesXamarim.csproj": {
-                "projectPath": "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/PagesXamarim.csproj"
+              "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/PagesXamarim.csproj": {
+                "projectPath": "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/PagesXamarim.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/PagesXamarim.csproj": {
+    "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/PagesXamarim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/PagesXamarim.csproj",
+        "projectUniqueName": "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/PagesXamarim.csproj",
         "projectName": "PagesXamarim",
-        "projectPath": "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/PagesXamarim.csproj",
+        "projectPath": "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/PagesXamarim.csproj",
         "packagesPath": "/Users/marceloduarte/.nuget/packages/",
-        "outputPath": "/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/obj/",
+        "outputPath": "/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
