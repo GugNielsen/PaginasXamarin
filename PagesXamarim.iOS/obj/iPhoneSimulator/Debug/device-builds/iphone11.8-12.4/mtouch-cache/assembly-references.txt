@@ -1,4 +1,4 @@
-/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/bin/iPhoneSimulator/Debug/PagesXamarim.iOS.exe
+/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/bin/iPhoneSimulator/Debug/PagesXamarim.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/mscorlib.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/../../64bits/Xamarin.iOS.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.dll
@@ -50,7 +50,7 @@
 /Users/marceloduarte/.nuget/packages/syncfusion.xamarin.core/17.2.0.47/lib/Xamarin.iOS10/Syncfusion.Core.XForms.iOS.dll
 /Users/marceloduarte/.nuget/packages/syncfusion.xamarin.sfmaskededit/17.2.0.47/lib/Xamarin.iOS10/Syncfusion.SfMaskedEdit.XForms.iOS.dll
 /Users/marceloduarte/.nuget/packages/syncfusion.xamarin.sfmaskededit/17.2.0.47/lib/Xamarin.iOS10/Syncfusion.SfMaskedEdit.XForms.dll
-/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/bin/Debug/netstandard2.0/PagesXamarim.dll
+/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/bin/Debug/netstandard2.0/PagesXamarim.dll
 /Users/marceloduarte/.nuget/packages/prism.core/7.2.0.1367/lib/netstandard2.0/Prism.dll
 /Users/marceloduarte/.nuget/packages/prism.forms/7.2.0.1367/lib/netstandard2.0/Prism.Forms.dll
 /Users/marceloduarte/.nuget/packages/newtonsoft.json/12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll

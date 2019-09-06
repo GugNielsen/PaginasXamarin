@@ -1,5 +1,5 @@
---cache=/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-cache
---sim=/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/PagesXamarim.iOS.app
+--cache=/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-cache
+--sim=/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/PagesXamarim.iOS.app
 --executable=PagesXamarim.iOS
  --debug
  --sgen-conc
@@ -10,11 +10,11 @@
  --aot-options=-O=-float32
  --http-message-handler=NSUrlSessionHandler
  --abi=x86_64
---symbollist=/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-symbols.list
+--symbollist=/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-symbols.list
  --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
--r=/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/bin/Debug/netstandard2.0/PagesXamarim.dll
+-r=/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/bin/Debug/netstandard2.0/PagesXamarim.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll
@@ -220,7 +220,7 @@
 -r=/Users/marceloduarte/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/marceloduarte/.nuget/packages/xamarin.forms/4.2.0.709249/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/marceloduarte/.nuget/packages/xamarin.testcloud.agent/0.21.8/lib/Xamarin.iOS/Calabash.dll
--r=/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim/bin/Debug/netstandard2.0/PagesXamarim.dll
+-r=/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim/bin/Debug/netstandard2.0/PagesXamarim.dll
  --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/marceloduarte/Projects/PagesXamarim/PagesXamarim.iOS/bin/iPhoneSimulator/Debug/PagesXamarim.iOS.exe
+--root-assembly=/Users/marceloduarte/Repository/PaginasXamarin/PagesXamarim.iOS/bin/iPhoneSimulator/Debug/PagesXamarim.iOS.exe
  
